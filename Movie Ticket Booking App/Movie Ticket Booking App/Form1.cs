@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Oracle.DataAccess.Client;
 
-namespace WindowsFormsApp1
+namespace Movie_Ticket_Booking_App
 {
     public partial class Form1 : Form
     {

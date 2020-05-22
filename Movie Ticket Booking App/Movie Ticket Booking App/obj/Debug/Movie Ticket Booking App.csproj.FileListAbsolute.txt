@@ -1,0 +1,12 @@
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\obj\Debug\Movie Ticket Booking App.csprojAssemblyReference.cache
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\obj\Debug\Movie_Ticket_Booking_App.Form1.resources
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\obj\Debug\Movie_Ticket_Booking_App.Properties.Resources.resources
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\obj\Debug\Movie Ticket Booking App.csproj.GenerateResource.cache
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\obj\Debug\Movie Ticket Booking App.csproj.CoreCompileInputs.cache
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\bin\Debug\Movie Ticket Booking App.exe.config
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\bin\Debug\Movie Ticket Booking App.exe
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\bin\Debug\Movie Ticket Booking App.pdb
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\bin\Debug\Oracle.DataAccess.dll
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\obj\Debug\Movie Ticket Booking App.csproj.CopyComplete
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\obj\Debug\Movie Ticket Booking App.exe
+G:\C# Da\Movie Ticket Booking App\Movie Ticket Booking App\obj\Debug\Movie Ticket Booking App.pdb

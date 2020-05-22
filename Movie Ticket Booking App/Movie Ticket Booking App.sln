@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{33882D4C-7AA0-4E23-8FAA-75D44E48D076}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie Ticket Booking App", "Movie Ticket Booking App\Movie Ticket Booking App.csproj", "{2EF8BAE1-BA85-4C9F-8638-B25B45FEE3D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{33882D4C-7AA0-4E23-8FAA-75D44E48D076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33882D4C-7AA0-4E23-8FAA-75D44E48D076}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33882D4C-7AA0-4E23-8FAA-75D44E48D076}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33882D4C-7AA0-4E23-8FAA-75D44E48D076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF8BAE1-BA85-4C9F-8638-B25B45FEE3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF8BAE1-BA85-4C9F-8638-B25B45FEE3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF8BAE1-BA85-4C9F-8638-B25B45FEE3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF8BAE1-BA85-4C9F-8638-B25B45FEE3D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3A8530A0-3EAB-4DED-B6EB-9BCCD8093681}
+		SolutionGuid = {FF2C8651-A115-479B-B61F-302D64D393F6}
 	EndGlobalSection
 EndGlobal
